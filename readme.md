@@ -69,3 +69,10 @@ func main() {
 ```sh
 go build ./...
 ```
+
+## Publish to Public
+
+```sh
+git remote add ...
+git push -u origin main
+```
